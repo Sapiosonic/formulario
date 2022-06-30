@@ -4,60 +4,71 @@
 }
 
 #name{
-    display: block;
-    width: 350px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 
 }
 
 #postalcode{
-    display: block;
-    width: 200px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #address{
-    display: block;
-    width: 485px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #idcard{
-    display: block;
-    width: 350px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #number{
-    display: block;
-    width: 100px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #detail{
-    display: block;
-    width: 585px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #birth{
-    display: block;
-    width: 350px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #neighborhood{
-    display: block;
-    width: 200px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #city{
-    display: block;
-    width: 485px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 30px;
 }
 
 #phone{
-    display: block;
-    width: 350px;
+    display: flex;
+    align-content: flex-start;
+    row-gap: 50px;
 }
 
 #state{
-    display: block;
-    width: 711px;
-    height: 35px;
+    display: flex;
+    align-content: flex-end;
+    flex-grow: 4;
+    row-gap: 50%;
 }
 
 #button{
